@@ -1,0 +1,7 @@
+C:\Users\My PC\source\repos\KVstore\KVstore\bin\Debug\KVstore.exe.config
+C:\Users\My PC\source\repos\KVstore\KVstore\bin\Debug\KVstore.exe
+C:\Users\My PC\source\repos\KVstore\KVstore\bin\Debug\KVstore.pdb
+C:\Users\My PC\source\repos\KVstore\KVstore\obj\Debug\KVstore.csprojAssemblyReference.cache
+C:\Users\My PC\source\repos\KVstore\KVstore\obj\Debug\KVstore.csproj.CoreCompileInputs.cache
+C:\Users\My PC\source\repos\KVstore\KVstore\obj\Debug\KVstore.exe
+C:\Users\My PC\source\repos\KVstore\KVstore\obj\Debug\KVstore.pdb
